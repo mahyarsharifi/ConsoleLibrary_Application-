@@ -1,0 +1,14 @@
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\net8.0\ConsoleLibrary.exe
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\net8.0\ConsoleLibrary.deps.json
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\net8.0\ConsoleLibrary.runtimeconfig.json
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\net8.0\ConsoleLibrary.dll
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\bin\Debug\net8.0\ConsoleLibrary.pdb
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.AssemblyInfoInputs.cache
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.AssemblyInfo.cs
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.dll
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\refint\ConsoleLibrary.dll
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.pdb
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ConsoleLibrary.genruntimeconfig.cache
+C:\Users\Mahyar\Desktop\Projects\ConsoleLibrary\ConsoleLibrary\obj\Debug\net8.0\ref\ConsoleLibrary.dll
